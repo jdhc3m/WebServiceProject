@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WebServiceProject</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_name">Name: </string>
+    <string name="label_address">Address: </string>
+    <string name="label_dob">DOB: </string>
+    <string name="label_id">ID: </string>
+    <string name="label_emergency_contact_name">Emergency Contact Name: </string>
+    <string name="label_emergency_contact_number">Emergency Contact Number: </string>
+    <string name="category_gender">Gender</string>
+</resources>
